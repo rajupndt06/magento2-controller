@@ -27,6 +27,8 @@ If there is an action of controller class found, execute() method will be run.
 
 To understand more about regarding how to Create Controller in Magento 2 we will do a practice.
 
+youtube video tutorial : https://youtu.be/BzErwqfY24Q
+
 Lets do this practically, you need to follow step by step
 
 Step 1: Create a new module called Techone_ControllerTutorial
